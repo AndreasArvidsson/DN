@@ -1,6 +1,6 @@
-# DN
+# Java DN
 
-**Working with Distinguished Name(DN) strings**    
+**Working with Distinguished Name(DN) strings in Java**    
 
 ## Usage
 ```java
